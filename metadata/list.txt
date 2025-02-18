@@ -145,7 +145,6 @@ gen9lcpokeaaa
 gen9lcscale
 gen9megaconverge
 gen9mightymega
-gen9mixandmega
 gen9mnmag
 gen9mnmconverge
 gen9mnmlc
