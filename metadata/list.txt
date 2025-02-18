@@ -156,6 +156,7 @@ gen9ndstab
 gen9picaaa
 gen9pokeaaa
 gen9pokebh
+gen9pokebilitiesbh
 gen9pokeconverge
 gen9pokeff
 gen9pokeinh
